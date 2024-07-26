@@ -1,0 +1,10 @@
+{
+  "name": "@oweqian/template-vue-element-admin",
+  "version": "1.0.0",
+  "description": "cli-oweqian vue-element-admin template",
+  "author": "oweqian",
+  "license": "ISC",
+  "publishConfig": {
+    "access": "public"
+  }
+}
